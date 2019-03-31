@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff08de5b-8941-4be1-a006-293cacddd0e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.conn-test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.conn-test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyNetworkManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyNetworkManager.cs" afterDir="false" />
-    </list>
+    <list default="true" id="ff08de5b-8941-4be1-a006-293cacddd0e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +13,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyNetworkManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+            <state relative-caret-position="3247">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
               <folding>
-                <marker date="1553588169174" expanded="false" signature="6:251" ph="..." />
-                <marker date="1553588169174" expanded="true" signature="316:8943" ph="{...}" />
                 <marker date="1553588169174" expanded="true" signature="756:830" ph="{...}" />
                 <marker date="1553588169174" expanded="true" signature="860:925" ph="{...}" />
                 <marker date="1553588169174" expanded="true" signature="973:1251" ph="{...}" />
@@ -62,15 +57,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MyNwDisc.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="68">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding>
-                <marker date="1553590661311" expanded="false" signature="6:78" ph="..." />
-                <marker date="1553590661311" expanded="true" signature="127:306" ph="{...}" />
-                <marker date="1553590661311" expanded="true" signature="199:220" ph="{...}" />
-                <marker date="1553590661311" expanded="true" signature="278:304" ph="{...}" />
+                <element signature="e#0#78#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,11 +71,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MouseMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="221">
               <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
               <folding>
-                <marker date="1552639763731" expanded="false" signature="6:108" ph="..." />
-                <marker date="1552639763731" expanded="true" signature="155:560" ph="{...}" />
                 <marker date="1552639763731" expanded="true" signature="315:558" ph="{...}" />
               </folding>
             </state>
@@ -113,7 +103,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/SpriteSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/InputController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MouseMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/c5/3224ca79/NetworkLobbyManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/89/d871eb6e/NetworkClient.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/60/2076aa79/NetworkServerSimple.cs" root0="SKIP_HIGHLIGHTING" />
@@ -129,6 +118,7 @@
         <option value="$PROJECT_DIR$/Assets/MouseMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/MyNetworkManager.cs" />
         <option value="$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyNwDisc.cs" />
       </list>
     </option>
   </component>
@@ -144,11 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -180,6 +165,11 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -232,11 +222,12 @@
       <workItem from="1552599901715" duration="4350000" />
       <workItem from="1552638956705" duration="2205000" />
       <workItem from="1553587966346" duration="2315000" />
+      <workItem from="1554073927042" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31470000" />
+    <option name="totallyTimeSpent" value="31484000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,8 +240,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3167785" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32147652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -1078,13 +1070,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/MyNetworkManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+        <state relative-caret-position="3247">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
           <folding>
-            <marker date="1553588169174" expanded="false" signature="6:251" ph="..." />
-            <marker date="1553588169174" expanded="true" signature="316:8943" ph="{...}" />
             <marker date="1553588169174" expanded="true" signature="756:830" ph="{...}" />
             <marker date="1553588169174" expanded="true" signature="860:925" ph="{...}" />
             <marker date="1553588169174" expanded="true" signature="973:1251" ph="{...}" />
@@ -1126,25 +1117,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MouseMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="221">
           <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
           <folding>
-            <marker date="1552639763731" expanded="false" signature="6:108" ph="..." />
-            <marker date="1552639763731" expanded="true" signature="155:560" ph="{...}" />
             <marker date="1552639763731" expanded="true" signature="315:558" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MyNwDisc.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
-            <marker date="1553590661311" expanded="false" signature="6:78" ph="..." />
-            <marker date="1553590661311" expanded="true" signature="127:306" ph="{...}" />
-            <marker date="1553590661311" expanded="true" signature="199:220" ph="{...}" />
-            <marker date="1553590661311" expanded="true" signature="278:304" ph="{...}" />
+            <element signature="e#0#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
