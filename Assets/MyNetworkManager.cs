@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using UnityEditor.PackageManager;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.Networking.NetworkSystem;
@@ -81,6 +82,7 @@ public class MyNetworkManager : NetworkManager, IInputListener
     private void InitMessaging()
     {
         NetworkServer.RegisterHandler(MessageControl, OnServerRcvControlMessage);
+        
     }
 
     private float lastToggleTime;
