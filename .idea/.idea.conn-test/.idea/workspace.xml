@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff08de5b-8941-4be1-a006-293cacddd0e6" name="Default Changelist" comment="" />
+    <list default="true" id="ff08de5b-8941-4be1-a006-293cacddd0e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/MyNwDisc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyNwDisc.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,70 +13,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MyNetworkManager.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Finder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3247">
-              <caret line="199" selection-start-line="199" selection-end-line="199" />
+            <state relative-caret-position="204">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
-                <marker date="1553588169174" expanded="true" signature="756:830" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="860:925" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="973:1251" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="1011:1031" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="1093:1165" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="1547:2267" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="2301:2404" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="2492:2626" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="2757:3466" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="3050:3460" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="3113:3214" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="3231:3331" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="3501:4117" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="3541:3626" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="3796:4068" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="4155:4356" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="4195:4252" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="4483:4659" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="4690:4907" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="4939:5059" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="5150:5438" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="5469:5520" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="5659:6075" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="5844:5942" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="6240:6564" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="6310:6408" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="6692:6800" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="6932:7065" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="7130:7254" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="7321:8269" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="7653:8263" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="7754:8253" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="8354:8561" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="8604:8753" ph="{...}" />
-                <marker date="1553588169174" expanded="true" signature="8794:8941" ph="{...}" />
+                <marker date="1554086982050" expanded="true" signature="6:130" ph="..." />
+                <marker date="1554086982050" expanded="true" signature="170:526" ph="{...}" />
+                <marker date="1554086982050" expanded="true" signature="293:360" ph="{...}" />
+                <marker date="1554086982050" expanded="true" signature="425:524" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/MyNwDisc.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/NetworkController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="510">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
               <folding>
-                <element signature="e#0#78#0" expanded="true" />
+                <marker date="1554087228845" expanded="true" signature="6:130" ph="..." />
+                <marker date="1554087228845" expanded="true" signature="178:1782" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="185:315" ph="/* ... */" />
+                <marker date="1554087228845" expanded="true" signature="341:381" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="533:983" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="1029:1429" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="1158:1327" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="1251:1317" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="1495:1562" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="1584:1683" ph="{...}" />
+                <marker date="1554087228845" expanded="true" signature="1706:1780" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MouseMovement.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Broadcaster.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state relative-caret-position="187">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
               <folding>
-                <marker date="1552639763731" expanded="true" signature="315:558" ph="{...}" />
+                <marker date="1554086972385" expanded="false" signature="6:130" ph="..." />
+                <marker date="1554086972385" expanded="true" signature="175:400" ph="{...}" />
+                <marker date="1554086972385" expanded="true" signature="219:307" ph="{...}" />
+                <marker date="1554086972385" expanded="true" signature="386:398" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,6 +72,7 @@
       <find>highest</find>
       <find>s</find>
       <find>MyStart</find>
+      <find>m_networkaddress =</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,15 +82,24 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/d3/be1d369c/NetworkMessage.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/25/de823579/NetworkServer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/93/46111dee/ClientScene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NetworkController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8EA872B-C6C3-4547-B28C-904F5E42F85A/4f/8080c72e/Single.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/24/dedc91cc/MsgType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyNwDisc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/8a/62e897c5/NetworkMessageHandlers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Finder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Broadcaster.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SpriteSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/cd/ab4dc1e6/NetworkDiscovery.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MouseMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/c5/3224ca79/NetworkLobbyManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/89/d871eb6e/NetworkClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/60/2076aa79/NetworkServerSimple.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/c5/08e4592b/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyNetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8EA872B-C6C3-4547-B28C-904F5E42F85A/79/63bc8745/List`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -119,16 +113,21 @@
         <option value="$PROJECT_DIR$/Assets/MyNetworkManager.cs" />
         <option value="$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs" />
         <option value="$PROJECT_DIR$/Assets/MyNwDisc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Broadcaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Finder.cs" />
+        <option value="$PROJECT_DIR$/Assets/NetworkController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="135" />
-    <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="1945" />
+    <option name="height" value="1105" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -177,7 +176,9 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kandidat" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Assets/Finder.cs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,10 +199,10 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="9864">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="6112">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="9864" />
+      <option name="pid" value="6112" />
       <method v="2" />
     </configuration>
   </component>
@@ -222,12 +223,12 @@
       <workItem from="1552599901715" duration="4350000" />
       <workItem from="1552638956705" duration="2205000" />
       <workItem from="1553587966346" duration="2315000" />
-      <workItem from="1554073927042" duration="14000" />
+      <workItem from="1554073927042" duration="5892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31484000" />
+    <option name="totallyTimeSpent" value="37362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,7 +243,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32147652" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32147652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -250,7 +251,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.67202574" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.04021448" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.37131366" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -262,7 +263,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="15" side_tool="true" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50067115" side_tool="true" weight="0.3914209" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,6 +317,28 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>fromAddress.Substring(7)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NetworkManager.singleton.networkAddress</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NetworkManager.</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/xNWController.cs" />
@@ -394,326 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="555" column="18" selection-start-line="555" selection-start-column="18" selection-end-line="555" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/c5/08e4592b/NetworkManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="869" column="25" selection-start-line="869" selection-start-column="25" selection-end-line="869" selection-end-column="25" />
-          <folding>
-            <marker date="1551367567344" expanded="true" signature="0:362" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1551367567344" expanded="true" signature="614:60478" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="619:759" ph="///   &lt;para&gt;The NetworkManager is a convenience class for the HLAPI for managing networking systems.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="945:60476" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="1062:1156" ph="///   &lt;para&gt;The name of the current network Scene.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="2813:2899" ph="///   &lt;para&gt;The name of the current match.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="2966:3073" ph="///   &lt;para&gt;The maximum number of players in the current match.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="3803:3911" ph="///   &lt;para&gt;True if the NetworkServer or NetworkClient isactive.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="3949:4057" ph="///   &lt;para&gt;The current NetworkClient being used by the manager.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="4140:4282" ph="///   &lt;para&gt;A MatchInfo instance that will be used when StartServer() or StartClient() are called.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="4319:4404" ph="///   &lt;para&gt;The UMatch MatchMaker object.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="4445:4548" ph="///   &lt;para&gt;The list of matches that are available to join.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="4597:4689" ph="///   &lt;para&gt;The NetworkManager singleton object.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="5010:5070" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5076:5166" ph="///   &lt;para&gt;The network port currently in use.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="5193:5328" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5209:5260" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5270:5322" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5334:5455" ph="///   &lt;para&gt;Flag to tell the server whether to bind to a specific IP address.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="5486:5627" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5502:5556" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5566:5621" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5633:5726" ph="///   &lt;para&gt;The IP address to bind the server to.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="5762:5909" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5778:5835" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5845:5903" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="5915:6008" ph="///   &lt;para&gt;The network address currently in use.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="6041:6182" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6057:6111" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6121:6176" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6188:6332" ph="///   &lt;para&gt;A flag to control whether the NetworkManager object is destroyed when the Scene changes.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="6366:6513" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6382:6439" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6449:6507" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6519:6638" ph="///   &lt;para&gt;Controls whether the program runs when it is in the background.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="6670:6813" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6686:6741" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6751:6807" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6819:6938" ph="///   &lt;para&gt;Flag for using the script CRC check between server and clients.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="6969:7110" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="6985:7039" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7049:7104" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7116:7265" ph="///   &lt;para&gt;A flag to control sending the network information about every peer to all members of a match.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="7345:7431" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7361:7399" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7409:7425" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7437:7549" ph="///   &lt;para&gt;The maximum delay before sending packets on connections.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="7575:7704" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7591:7639" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7649:7698" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7710:7826" ph="///   &lt;para&gt;The log level specifically to user for network log messages.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="7868:8046" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7884:7932" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="7942:8040" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8052:8177" ph="///   &lt;para&gt;The default Prefab to be used to create player objects on the server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="8212:8349" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8228:8280" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8290:8343" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8355:8517" ph="///   &lt;para&gt;A flag to control whether or not player objects are automatically created on connect, and on Scene ch ... " />
-            <marker date="1551367567344" expanded="true" signature="8550:8695" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8566:8622" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8632:8689" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8701:8823" ph="///   &lt;para&gt;The current method of spawning players used by the NetworkManager.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="8870:9017" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8886:8943" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="8953:9011" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9023:9115" ph="///   &lt;para&gt;The Scene to switch to when offline.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="9146:9283" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9162:9214" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9224:9277" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9289:9380" ph="///   &lt;para&gt;The Scene to switch to when online.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="9410:9545" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9426:9477" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9487:9539" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9551:9672" ph="///   &lt;para&gt;List of Prefabs that will be registered with the spawning system.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="9713:9787" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9729:9781" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9793:9927" ph="///   &lt;para&gt;The list of currently registered player start positions for the current Scene.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="9969:10055" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="9985:10049" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10061:10161" ph="///   &lt;para&gt;Flag to enable custom network configuration.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="10190:10327" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10206:10258" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10268:10321" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10333:10429" ph="///   &lt;para&gt;The custom network configuration to use.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="10474:10657" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10490:10651" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10663:10771" ph="///   &lt;para&gt;The transport layer global configuration to be used.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="10808:10975" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10824:10969" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="10981:11101" ph="///   &lt;para&gt;The maximum number of concurrent network connections to support.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="11131:11272" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11147:11201" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11211:11266" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11278:11405" ph="///   &lt;para&gt;The Quality-of-Service channels to use for the network transport layer.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="11439:11509" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11455:11503" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11515:11709" ph="///   &lt;para&gt;Allows you to specify an EndPoint object instead of setting networkAddress and networkPort (required  ... " />
-            <marker date="1551367567344" expanded="true" signature="11750:11879" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11766:11814" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11824:11873" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="11885:12050" ph="///   &lt;para&gt;This makes the NetworkServer listen for WebSockets connections instead of normal transport layer conn ... " />
-            <marker date="1551367567344" expanded="true" signature="12080:12219" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12096:12149" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12159:12213" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12225:12389" ph="///   &lt;para&gt;Flag that control whether clients started by this NetworkManager will use simulated latency and packe ... " />
-            <marker date="1551367567344" expanded="true" signature="12418:12555" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12434:12486" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12496:12549" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12561:12700" ph="///   &lt;para&gt;The delay in milliseconds to be added to incoming and outgoing packets for clients.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="12732:12877" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12748:12804" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12814:12871" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="12883:13013" ph="///   &lt;para&gt;The percentage of incoming and outgoing packets to be dropped for clients.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="13051:13204" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13067:13127" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13137:13198" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13210:13305" ph="///   &lt;para&gt;The hostname of the matchmaking server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="13333:13464" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13349:13398" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13408:13458" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13470:13562" ph="///   &lt;para&gt;The port of the matchmaking service.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="13587:13718" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13603:13652" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13662:13712" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13724:13856" ph="///   &lt;para&gt;This is true if the client loaded a new Scene when connecting to the server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="13890:14037" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13906:13963" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="13973:14031" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14043:14156" ph="///   &lt;para&gt;The migration manager being used with the NetworkManager.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="14208:14286" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14224:14280" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14292:14435" ph="///   &lt;para&gt;NumPlayers is the number of active player objects across all connections on the server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="14461:14978" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14477:14972" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14587:14944" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14707:14934" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14807:14922" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="14984:15093" ph="///   &lt;para&gt;The high level API's default network transport class.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="15146:15250" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="15162:15244" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="15256:15460" ph="///   &lt;para&gt;The currently active instance of an INetworkTransport object that is being used by the high level API ... " />
-            <marker date="1551367567344" expanded="true" signature="15512:16008" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="15528:15593" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="15603:16002" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="16051:16107" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="16133:16179" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="16219:17704" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="16557:17260" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="16653:16974" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="17271:17435" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="17474:17548" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="17559:17698" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="17735:19606" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="18370:18571" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="18757:18951" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="19044:19282" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="19650:20331" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="20337:20567" ph="///   &lt;para&gt;This sets up a NetworkMigrationManager object to work with this NetworkManager.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="20634:20683" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="20757:20842" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="20848:21021" ph="///   &lt;para&gt;This starts a new server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="21051:21112" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="21157:21235" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="21326:23491" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="21774:22095" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="21900:22006" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="22202:22424" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="22271:22416" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="22513:22793" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="22602:22785" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="22851:22986" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="23555:24485" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="24276:24479" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="24491:24751" ph="///   &lt;para&gt;This allows the NetworkManager to use a client object created externally to the NetworkManager instea ... " />
-            <marker date="1551367567344" expanded="true" signature="24815:25510" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="24933:25115" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="25126:25448" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="25622:28376" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="26015:26284" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="26355:26902" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="26481:26587" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="26984:27173" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="27213:27395" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="27406:28091" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="27471:27654" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="28435:28514" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="28520:28776" ph="///   &lt;para&gt;This starts a network client. It uses the networkAddress and networkPort properties as the address to ... " />
-            <marker date="1551367567344" expanded="true" signature="28815:28901" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="28980:29040" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="29129:29433" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="29493:29743" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="29749:29994" ph="///   &lt;para&gt;This starts a network &quot;host&quot; - a server and client in the same application.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="30039:30256" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="30304:30769" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="30775:30899" ph="///   &lt;para&gt;This stops both the client and the server that the manager is using.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="30926:31218" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="31224:31323" ph="///   &lt;para&gt;Stops the server that the manager is using.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="31352:31770" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="31776:31875" ph="///   &lt;para&gt;Stops the client that the manager is using.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="31904:32450" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="32091:32217" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="32456:32785" ph="///   &lt;para&gt;This causes the server to switch Scenes and sets the networkSceneName.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="32848:33572" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="32900:33038" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="33049:33566" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="33617:33770" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="33846:34742" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="33898:34036" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34047:34736" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34287:34584" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34386:34466" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34494:34574" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34778:35539" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34815:35103" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="34883:35095" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="35230:35352" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="35579:36896" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="35791:36364" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="36926:37037" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="37043:37226" ph="///   &lt;para&gt;Registers the transform of a game object as a player spawn location.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="37288:37495" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="37501:37664" ph="///   &lt;para&gt;Unregisters the transform of a game object as a player spawn location.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="37728:37940" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="37946:38207" ph="///   &lt;para&gt;This checks if the NetworkManager has a client and that it is connected to a server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="38243:38316" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="38322:38445" ph="///   &lt;para&gt;Shuts down the NetworkManager completely and destroy the singleton.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="38479:38859" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="38925:40020" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="39123:39334" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="39372:39560" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="39667:39840" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="40089:40381" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="40452:40608" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="40683:41441" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="40935:41175" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="41519:42200" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="42264:42525" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="42591:43105" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="42925:43026" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="43174:43977" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="44051:44246" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="44310:44571" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="44635:44928" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="44934:45097" ph="///   &lt;para&gt;Called on the server when a new client connects.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="45161:45173" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="45179:45341" ph="///   &lt;para&gt;Called on the server when a client disconnects.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="45408:45655" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="45661:45820" ph="///   &lt;para&gt;Called on the server when a client is ready.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="45882:46062" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="46208:46284" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="46290:46656" ph="///   &lt;para&gt;Called on the server when a client adds a new player with ClientScene.AddPlayer.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="46748:46824" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="46918:48421" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="47005:47193" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="47311:47515" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="47760:47938" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="47949:48415" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="48427:48675" ph="///   &lt;para&gt;This finds a spawn position based on NetworkStartPosition objects in the Scene.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="48715:49797" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="48774:49064" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="48871:49056" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="49173:49332" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="49803:50058" ph="///   &lt;para&gt;Called on the server when a client removes a player.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="50152:50310" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="50316:50556" ph="///   &lt;para&gt;Called on the server when a network error occurs for a client connection.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="50633:50645" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="50651:50902" ph="///   &lt;para&gt;Called on the server when a Scene is completed loaded, when the Scene load was initiated by the serve ... " />
-            <marker date="1551367567344" expanded="true" signature="50965:50977" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="50983:51148" ph="///   &lt;para&gt;Called on the client when connected to a server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="51212:51382" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="51388:51555" ph="///   &lt;para&gt;Called on clients when disconnected from a server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="51622:51839" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="51845:52058" ph="///   &lt;para&gt;Called on clients when a network error occurs.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="52135:52147" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="52153:52340" ph="///   &lt;para&gt;Called on clients when a servers tells the client it is no longer ready.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="52405:52417" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="52423:52680" ph="///   &lt;para&gt;Called on clients when a Scene has completed loaded, when the Scene load was initiated by the server. ... " />
-            <marker date="1551367567344" expanded="true" signature="52749:53298" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="52995:53178" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="53109:53170" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="53304:53406" ph="///   &lt;para&gt;This starts MatchMaker for the NetworkManager.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="53440:53630" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="53636:53746" ph="///   &lt;para&gt;Stops the MatchMaker that the NetworkManager is using.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="53779:54471" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="54234:54371" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="54477:54787" ph="///   &lt;para&gt;This sets the address of the MatchMaker service.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="54854:55626" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="55632:55732" ph="///   &lt;para&gt;This hook is invoked when a host is started.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="55770:55782" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="55788:55925" ph="///   &lt;para&gt;This hook is invoked when a server is started - including when a host is started.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="55965:55977" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="55983:56177" ph="///   &lt;para&gt;This is a hook that is invoked when the client is started.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="56237:56249" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="56255:56391" ph="///   &lt;para&gt;This hook is called when a server is stopped - including when a host is stopped.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="56430:56442" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="56448:56549" ph="///   &lt;para&gt;This hook is called when a client is stopped.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="56588:56600" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="56606:56705" ph="///   &lt;para&gt;This hook is called when a host is stopped.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="56742:56754" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="56760:57169" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.CreateMatch request has been processed on the server.&lt;/para ... " />
-            <marker date="1551367567344" expanded="true" signature="57263:57537" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="57663:57910" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="57916:58313" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.JoinMatch request has been processed on the server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="58407:58683" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="58689:59012" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.DestroyMatch request has been processed on the server.&lt;/par ... " />
-            <marker date="1551367567344" expanded="true" signature="59086:59272" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="59278:59609" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.DropConnection match request has been processed on the serv ... " />
-            <marker date="1551367567344" expanded="true" signature="59685:59873" ph="{...}" />
-            <marker date="1551367567344" expanded="true" signature="59879:60200" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.SetMatchAttributes has been processed on the server.&lt;/para&gt; ... " />
-            <marker date="1551367567344" expanded="true" signature="60280:60472" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1071,11 +774,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../kandidat/project/Assets/MoveToMouseOnClick.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/cd/ab4dc1e6/NetworkDiscovery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="475" column="43" selection-start-line="475" selection-start-column="24" selection-end-line="475" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyNetworkManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3247">
-          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        <state relative-caret-position="-180">
+          <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
           <folding>
+            <marker date="1553588169174" expanded="false" signature="6:251" ph="..." />
+            <marker date="1553588169174" expanded="true" signature="316:8943" ph="{...}" />
             <marker date="1553588169174" expanded="true" signature="756:830" ph="{...}" />
             <marker date="1553588169174" expanded="true" signature="860:925" ph="{...}" />
             <marker date="1553588169174" expanded="true" signature="973:1251" ph="{...}" />
@@ -1115,22 +827,397 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MouseMovement.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CEEA6964-C467-4E97-B1BD-31A420ACF1FC/c5/08e4592b/NetworkManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="420">
+          <caret line="1617" column="5" lean-forward="true" selection-start-line="1617" selection-start-column="5" selection-end-line="1617" selection-end-column="5" />
           <folding>
-            <marker date="1552639763731" expanded="true" signature="315:558" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="0:362" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1551367567344" expanded="false" signature="370:580" ph="..." />
+            <marker date="1551367567344" expanded="true" signature="614:60478" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="619:759" ph="///   &lt;para&gt;The NetworkManager is a convenience class for the HLAPI for managing networking systems.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="945:60476" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="1062:1156" ph="///   &lt;para&gt;The name of the current network Scene.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="2813:2899" ph="///   &lt;para&gt;The name of the current match.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="2966:3073" ph="///   &lt;para&gt;The maximum number of players in the current match.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="3803:3911" ph="///   &lt;para&gt;True if the NetworkServer or NetworkClient isactive.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="3949:4057" ph="///   &lt;para&gt;The current NetworkClient being used by the manager.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="4140:4282" ph="///   &lt;para&gt;A MatchInfo instance that will be used when StartServer() or StartClient() are called.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="4319:4404" ph="///   &lt;para&gt;The UMatch MatchMaker object.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="4445:4548" ph="///   &lt;para&gt;The list of matches that are available to join.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="4597:4689" ph="///   &lt;para&gt;The NetworkManager singleton object.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="5010:5070" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5076:5166" ph="///   &lt;para&gt;The network port currently in use.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="5193:5328" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5209:5260" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5270:5322" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5334:5455" ph="///   &lt;para&gt;Flag to tell the server whether to bind to a specific IP address.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="5486:5627" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5502:5556" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5566:5621" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5633:5726" ph="///   &lt;para&gt;The IP address to bind the server to.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="5762:5909" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5778:5835" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5845:5903" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="5915:6008" ph="///   &lt;para&gt;The network address currently in use.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="6041:6182" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6057:6111" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6121:6176" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6188:6332" ph="///   &lt;para&gt;A flag to control whether the NetworkManager object is destroyed when the Scene changes.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="6366:6513" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6382:6439" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6449:6507" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6519:6638" ph="///   &lt;para&gt;Controls whether the program runs when it is in the background.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="6670:6813" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6686:6741" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6751:6807" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6819:6938" ph="///   &lt;para&gt;Flag for using the script CRC check between server and clients.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="6969:7110" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="6985:7039" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7049:7104" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7116:7265" ph="///   &lt;para&gt;A flag to control sending the network information about every peer to all members of a match.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="7345:7431" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7361:7399" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7409:7425" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7437:7549" ph="///   &lt;para&gt;The maximum delay before sending packets on connections.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="7575:7704" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7591:7639" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7649:7698" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7710:7826" ph="///   &lt;para&gt;The log level specifically to user for network log messages.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="7868:8046" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7884:7932" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="7942:8040" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8052:8177" ph="///   &lt;para&gt;The default Prefab to be used to create player objects on the server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="8212:8349" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8228:8280" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8290:8343" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8355:8517" ph="///   &lt;para&gt;A flag to control whether or not player objects are automatically created on connect, and on Scene ch ... " />
+            <marker date="1551367567344" expanded="true" signature="8550:8695" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8566:8622" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8632:8689" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8701:8823" ph="///   &lt;para&gt;The current method of spawning players used by the NetworkManager.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="8870:9017" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8886:8943" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="8953:9011" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9023:9115" ph="///   &lt;para&gt;The Scene to switch to when offline.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="9146:9283" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9162:9214" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9224:9277" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9289:9380" ph="///   &lt;para&gt;The Scene to switch to when online.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="9410:9545" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9426:9477" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9487:9539" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9551:9672" ph="///   &lt;para&gt;List of Prefabs that will be registered with the spawning system.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="9713:9787" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9729:9781" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9793:9927" ph="///   &lt;para&gt;The list of currently registered player start positions for the current Scene.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="9969:10055" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="9985:10049" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10061:10161" ph="///   &lt;para&gt;Flag to enable custom network configuration.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="10190:10327" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10206:10258" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10268:10321" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10333:10429" ph="///   &lt;para&gt;The custom network configuration to use.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="10474:10657" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10490:10651" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10663:10771" ph="///   &lt;para&gt;The transport layer global configuration to be used.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="10808:10975" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10824:10969" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="10981:11101" ph="///   &lt;para&gt;The maximum number of concurrent network connections to support.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="11131:11272" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11147:11201" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11211:11266" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11278:11405" ph="///   &lt;para&gt;The Quality-of-Service channels to use for the network transport layer.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="11439:11509" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11455:11503" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11515:11709" ph="///   &lt;para&gt;Allows you to specify an EndPoint object instead of setting networkAddress and networkPort (required  ... " />
+            <marker date="1551367567344" expanded="true" signature="11750:11879" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11766:11814" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11824:11873" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="11885:12050" ph="///   &lt;para&gt;This makes the NetworkServer listen for WebSockets connections instead of normal transport layer conn ... " />
+            <marker date="1551367567344" expanded="true" signature="12080:12219" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12096:12149" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12159:12213" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12225:12389" ph="///   &lt;para&gt;Flag that control whether clients started by this NetworkManager will use simulated latency and packe ... " />
+            <marker date="1551367567344" expanded="true" signature="12418:12555" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12434:12486" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12496:12549" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12561:12700" ph="///   &lt;para&gt;The delay in milliseconds to be added to incoming and outgoing packets for clients.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="12732:12877" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12748:12804" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12814:12871" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="12883:13013" ph="///   &lt;para&gt;The percentage of incoming and outgoing packets to be dropped for clients.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="13051:13204" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13067:13127" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13137:13198" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13210:13305" ph="///   &lt;para&gt;The hostname of the matchmaking server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="13333:13464" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13349:13398" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13408:13458" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13470:13562" ph="///   &lt;para&gt;The port of the matchmaking service.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="13587:13718" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13603:13652" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13662:13712" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13724:13856" ph="///   &lt;para&gt;This is true if the client loaded a new Scene when connecting to the server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="13890:14037" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13906:13963" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="13973:14031" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14043:14156" ph="///   &lt;para&gt;The migration manager being used with the NetworkManager.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="14208:14286" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14224:14280" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14292:14435" ph="///   &lt;para&gt;NumPlayers is the number of active player objects across all connections on the server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="14461:14978" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14477:14972" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14587:14944" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14707:14934" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14807:14922" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="14984:15093" ph="///   &lt;para&gt;The high level API's default network transport class.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="15146:15250" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="15162:15244" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="15256:15460" ph="///   &lt;para&gt;The currently active instance of an INetworkTransport object that is being used by the high level API ... " />
+            <marker date="1551367567344" expanded="true" signature="15512:16008" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="15528:15593" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="15603:16002" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="16051:16107" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="16133:16179" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="16219:17704" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="16557:17260" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="16653:16974" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="17271:17435" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="17474:17548" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="17559:17698" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="17735:19606" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="18370:18571" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="18757:18951" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="19044:19282" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="19650:20331" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="20337:20567" ph="///   &lt;para&gt;This sets up a NetworkMigrationManager object to work with this NetworkManager.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="20634:20683" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="20757:20842" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="20848:21021" ph="///   &lt;para&gt;This starts a new server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="21051:21112" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="21157:21235" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="21326:23491" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="21774:22095" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="21900:22006" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="22202:22424" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="22271:22416" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="22513:22793" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="22602:22785" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="22851:22986" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="23555:24485" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="24276:24479" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="24491:24751" ph="///   &lt;para&gt;This allows the NetworkManager to use a client object created externally to the NetworkManager instea ... " />
+            <marker date="1551367567344" expanded="true" signature="24815:25510" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="24933:25115" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="25126:25448" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="25622:28376" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="26015:26284" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="26355:26902" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="26481:26587" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="26984:27173" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="27213:27395" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="27406:28091" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="27471:27654" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="28435:28514" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="28520:28776" ph="///   &lt;para&gt;This starts a network client. It uses the networkAddress and networkPort properties as the address to ... " />
+            <marker date="1551367567344" expanded="true" signature="28815:28901" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="28980:29040" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="29129:29433" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="29493:29743" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="29749:29994" ph="///   &lt;para&gt;This starts a network &quot;host&quot; - a server and client in the same application.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="30039:30256" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="30304:30769" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="30775:30899" ph="///   &lt;para&gt;This stops both the client and the server that the manager is using.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="30926:31218" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="31224:31323" ph="///   &lt;para&gt;Stops the server that the manager is using.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="31352:31770" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="31776:31875" ph="///   &lt;para&gt;Stops the client that the manager is using.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="31904:32450" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="32091:32217" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="32456:32785" ph="///   &lt;para&gt;This causes the server to switch Scenes and sets the networkSceneName.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="32848:33572" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="32900:33038" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="33049:33566" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="33617:33770" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="33846:34742" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="33898:34036" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34047:34736" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34287:34584" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34386:34466" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34494:34574" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34778:35539" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34815:35103" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="34883:35095" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="35230:35352" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="35579:36896" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="35791:36364" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="36926:37037" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="37043:37226" ph="///   &lt;para&gt;Registers the transform of a game object as a player spawn location.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="37288:37495" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="37501:37664" ph="///   &lt;para&gt;Unregisters the transform of a game object as a player spawn location.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="37728:37940" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="37946:38207" ph="///   &lt;para&gt;This checks if the NetworkManager has a client and that it is connected to a server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="38243:38316" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="38322:38445" ph="///   &lt;para&gt;Shuts down the NetworkManager completely and destroy the singleton.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="38479:38859" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="38925:40020" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="39123:39334" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="39372:39560" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="39667:39840" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="40089:40381" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="40452:40608" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="40683:41441" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="40935:41175" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="41519:42200" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="42264:42525" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="42591:43105" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="42925:43026" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="43174:43977" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="44051:44246" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="44310:44571" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="44635:44928" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="44934:45097" ph="///   &lt;para&gt;Called on the server when a new client connects.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="45161:45173" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="45179:45341" ph="///   &lt;para&gt;Called on the server when a client disconnects.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="45408:45655" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="45661:45820" ph="///   &lt;para&gt;Called on the server when a client is ready.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="45882:46062" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="46208:46284" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="46290:46656" ph="///   &lt;para&gt;Called on the server when a client adds a new player with ClientScene.AddPlayer.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="46748:46824" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="46918:48421" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="47005:47193" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="47311:47515" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="47760:47938" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="47949:48415" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="48427:48675" ph="///   &lt;para&gt;This finds a spawn position based on NetworkStartPosition objects in the Scene.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="48715:49797" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="48774:49064" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="48871:49056" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="49173:49332" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="49803:50058" ph="///   &lt;para&gt;Called on the server when a client removes a player.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="50152:50310" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="50316:50556" ph="///   &lt;para&gt;Called on the server when a network error occurs for a client connection.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="50633:50645" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="50651:50902" ph="///   &lt;para&gt;Called on the server when a Scene is completed loaded, when the Scene load was initiated by the serve ... " />
+            <marker date="1551367567344" expanded="true" signature="50965:50977" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="50983:51148" ph="///   &lt;para&gt;Called on the client when connected to a server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="51212:51382" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="51388:51555" ph="///   &lt;para&gt;Called on clients when disconnected from a server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="51622:51839" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="51845:52058" ph="///   &lt;para&gt;Called on clients when a network error occurs.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="52135:52147" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="52153:52340" ph="///   &lt;para&gt;Called on clients when a servers tells the client it is no longer ready.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="52405:52417" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="52423:52680" ph="///   &lt;para&gt;Called on clients when a Scene has completed loaded, when the Scene load was initiated by the server. ... " />
+            <marker date="1551367567344" expanded="true" signature="52749:53298" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="52995:53178" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="53109:53170" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="53304:53406" ph="///   &lt;para&gt;This starts MatchMaker for the NetworkManager.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="53440:53630" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="53636:53746" ph="///   &lt;para&gt;Stops the MatchMaker that the NetworkManager is using.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="53779:54471" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="54234:54371" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="54477:54787" ph="///   &lt;para&gt;This sets the address of the MatchMaker service.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="54854:55626" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="55632:55732" ph="///   &lt;para&gt;This hook is invoked when a host is started.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="55770:55782" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="55788:55925" ph="///   &lt;para&gt;This hook is invoked when a server is started - including when a host is started.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="55965:55977" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="55983:56177" ph="///   &lt;para&gt;This is a hook that is invoked when the client is started.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="56237:56249" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="56255:56391" ph="///   &lt;para&gt;This hook is called when a server is stopped - including when a host is stopped.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="56430:56442" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="56448:56549" ph="///   &lt;para&gt;This hook is called when a client is stopped.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="56588:56600" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="56606:56705" ph="///   &lt;para&gt;This hook is called when a host is stopped.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="56742:56754" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="56760:57169" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.CreateMatch request has been processed on the server.&lt;/para ... " />
+            <marker date="1551367567344" expanded="true" signature="57263:57537" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="57663:57910" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="57916:58313" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.JoinMatch request has been processed on the server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="58407:58683" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="58689:59012" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.DestroyMatch request has been processed on the server.&lt;/par ... " />
+            <marker date="1551367567344" expanded="true" signature="59086:59272" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="59278:59609" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.DropConnection match request has been processed on the serv ... " />
+            <marker date="1551367567344" expanded="true" signature="59685:59873" ph="{...}" />
+            <marker date="1551367567344" expanded="true" signature="59879:60200" ph="///   &lt;para&gt;Callback that happens when a NetworkMatch.SetMatchAttributes has been processed on the server.&lt;/para&gt; ... " />
+            <marker date="1551367567344" expanded="true" signature="60280:60472" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyNwDisc.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#0#78#0" expanded="true" />
+            <marker date="1554077553620" expanded="true" signature="6:108" ph="..." />
+            <marker date="1554077553620" expanded="true" signature="150:963" ph="{...}" />
+            <marker date="1554077553620" expanded="true" signature="230:515" ph="{...}" />
+            <marker date="1554077553620" expanded="true" signature="371:450" ph="{...}" />
+            <marker date="1554077553620" expanded="true" signature="561:961" ph="{...}" />
+            <marker date="1554077553620" expanded="true" signature="690:859" ph="{...}" />
+            <marker date="1554077553620" expanded="true" signature="783:849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1552639763731" expanded="false" signature="6:108" ph="..." />
+            <marker date="1552639763731" expanded="true" signature="155:560" ph="{...}" />
+            <marker date="1552639763731" expanded="true" signature="315:558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Broadcaster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <marker date="1554086972385" expanded="false" signature="6:130" ph="..." />
+            <marker date="1554086972385" expanded="true" signature="175:400" ph="{...}" />
+            <marker date="1554086972385" expanded="true" signature="219:307" ph="{...}" />
+            <marker date="1554086972385" expanded="true" signature="386:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Finder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <marker date="1554086982050" expanded="true" signature="6:130" ph="..." />
+            <marker date="1554086982050" expanded="true" signature="170:526" ph="{...}" />
+            <marker date="1554086982050" expanded="true" signature="293:360" ph="{...}" />
+            <marker date="1554086982050" expanded="true" signature="425:524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NetworkController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <marker date="1554087228845" expanded="true" signature="6:130" ph="..." />
+            <marker date="1554087228845" expanded="true" signature="178:1782" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="185:315" ph="/* ... */" />
+            <marker date="1554087228845" expanded="true" signature="341:381" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="533:983" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="1029:1429" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="1158:1327" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="1251:1317" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="1495:1562" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="1584:1683" ph="{...}" />
+            <marker date="1554087228845" expanded="true" signature="1706:1780" ph="{...}" />
           </folding>
         </state>
       </provider>
